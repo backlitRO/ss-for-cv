@@ -3,34 +3,36 @@
 this readme containes a list of some projects that I worked on:
 
 querio
-web-3 search engine
+A Decentralized Search Protocal for indexing, updating and caching data through blockchain storage solutions coupled with a decentralized network of content miners.
 https://querio.io
 
+The image shown below presents the Querio home page showcasing the main interface.
 ![image](https://github.com/user-attachments/assets/69f524ac-07ce-42f4-b9f2-ccf27300382d)
-^^ -- home page -- ^^
+The image shown below presents the search functionality in action within Querio.
 ![image](https://github.com/user-attachments/assets/0f7c4c4b-cc96-46d5-bd12-9fb06cc10ee7)
-^^ -- search page -- ^^
+The image shown below presents the AI-powered search insights on Querio AI page.
 ![image](https://github.com/user-attachments/assets/710a06d5-563c-4544-9a15-ca757908a32c)
-^^ -- querio ai page -- ^^
 
 -----------------------------------------------------------------------------------------
 
-near-space
-near blockchain propasal app
+Near-space
+NearSpace - a decentralised voting system dedicated to NEAR accounts Members will first have to join a space and then vote on the existing proposals. 
 
+The image shown below presents a glimpse of the NearSpace voting dashboard.
 ![image](https://github.com/user-attachments/assets/468e349f-28cb-4355-881f-1aba209d1aa2)
-^^ -- home page -- ^^
+The image shown below presents the group page where members collaborate and vote on proposals.
 ![image](https://github.com/user-attachments/assets/42d37713-71ae-42ac-a570-3780a1894497)
-^^ -- group page -- ^^
+
 
 -----------------------------------------------------------------------------------------
 
-soroban pulse
-stellar blockchain statistics app
+SorobanPulse
+A Stellar blockchain statistics app providing insightful metrics and analytics.
 
-![image](https://github.com/user-attachments/assets/6939ad4b-3d66-4c57-becf-665ef481872a)
-^^ -- a part of the projects page -- ^^
-![image](https://github.com/user-attachments/assets/2561565d-3cab-487c-bc78-b678ca272e8f)
-^^ -- a part of the highlights page -- ^^
-![image](https://github.com/user-attachments/assets/bb5ff070-cd7d-4447-b228-abb9cf0a14fc)
-^^ -- a part of the metrics page -- ^^
+The image shown below presents the overview of various projects tracked on Soroban Pulse.
+![image](https://github.com/user-attachments/assets/d7f277b5-e75d-427c-b33b-a1f266a9f9d9)
+The image shown below presents the highlighted blockchain trends and data analytics.
+![image](https://github.com/user-attachments/assets/1867343c-473f-454f-8fb6-c5367642b734)
+The image shown below presents the detailed blockchain metrics for in-depth analysis.
+![image](https://github.com/user-attachments/assets/eba6e13c-2f80-4279-87e1-ac4760ad568e)
+
