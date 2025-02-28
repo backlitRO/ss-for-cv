@@ -4,6 +4,7 @@ this readme containes a list of some projects that I worked on:
 
 querio
 web-3 search engine
+https://querio.io
 
 ![image](https://github.com/user-attachments/assets/69f524ac-07ce-42f4-b9f2-ccf27300382d)
 ^^ -- home page -- ^^
