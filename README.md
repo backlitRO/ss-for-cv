@@ -29,7 +29,6 @@ The image shown below presents the group page where members collaborate and vote
 This section allows members to discuss governance topics, review voting results, and propose new initiatives.
 ![image](https://github.com/user-attachments/assets/42d37713-71ae-42ac-a570-3780a1894497)
 
-
 -----------------------------------------------------------------------------------------
 
 Querio
@@ -47,5 +46,14 @@ This image captures the search results page, displaying relevant indexed data wi
 The image shown below presents the AI-powered search insights on Querio AI page.
 It demonstrates Querio's AI-assisted search capabilities, enhancing query accuracy and delivering intelligent results.
 ![image](https://github.com/user-attachments/assets/3b2e5295-02ed-4856-a0be-ac567b0aeec4)
+
+-----------------------------------------------------------------------------------------
+
+CrossChain Labs website
+
+Minimalist interface for the CrossChain Labs company
+
+https://crosschainlabs.tech
+![image](https://github.com/user-attachments/assets/4cfa3dcb-0218-4dc5-8783-1de2790eca4c)
 
 
