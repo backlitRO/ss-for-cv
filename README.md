@@ -3,14 +3,15 @@
 this readme containes a list of some projects that I worked on:
 
 querio
+
 A Decentralized Search Protocal for indexing, updating and caching data through blockchain storage solutions coupled with a decentralized network of content miners.
 
 https://querio.io
 
 The image shown below presents the Querio home page showcasing the main interface.
-![image](https://github.com/user-attachments/assets/69f524ac-07ce-42f4-b9f2-ccf27300382d)
+![image](https://github.com/user-attachments/assets/142bcd2a-1cbb-4997-90dd-8dedb88ae98c)
 The image shown below presents the search functionality in action within Querio.
-![image](https://github.com/user-attachments/assets/0f7c4c4b-cc96-46d5-bd12-9fb06cc10ee7)
+![image](https://github.com/user-attachments/assets/79b45ef6-1358-4e6c-a9da-6fa2010334de)
 The image shown below presents the AI-powered search insights on Querio AI page.
 ![image](https://github.com/user-attachments/assets/710a06d5-563c-4544-9a15-ca757908a32c)
 
