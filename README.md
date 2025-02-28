@@ -4,6 +4,7 @@ this readme containes a list of some projects that I worked on:
 
 querio
 A Decentralized Search Protocal for indexing, updating and caching data through blockchain storage solutions coupled with a decentralized network of content miners.
+
 https://querio.io
 
 The image shown below presents the Querio home page showcasing the main interface.
